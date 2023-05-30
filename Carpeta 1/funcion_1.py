@@ -22,4 +22,4 @@ b1 = pais_3[0:1] # [incluye:Noincluye] <- IMPORTANTISIMO
 b2 = pais_3[:4] 
 b3 = pais_3[0:2]
 print("hola mundo")
-
+print("adios mundo")
