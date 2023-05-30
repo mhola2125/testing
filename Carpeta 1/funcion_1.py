@@ -18,9 +18,3 @@ a3 = pais_2[-1]
 a4 = pais_2[-2]
 a5 = pais_3[4][0]
 
-    # Particionamiento
-b1 = pais_1[0:1] # [incluye:Noincluye] <- IMPORTANTISIMO
-b2 = pais_2[:4]    
-b3 = pais_2[:-2]  
-b4 = pais_2[-2:]  
-b5 = pais_2[2:]  
